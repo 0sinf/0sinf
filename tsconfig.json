@@ -1,0 +1,19 @@
+/* 자주 사용하는 tsconfig.json */
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "strictNullChecks": false,
+    "types": ["jest"],
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*", "src/types/*"]
+    }
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*"]
+}
