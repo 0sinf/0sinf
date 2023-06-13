@@ -8,7 +8,7 @@
 
 ### Front-end Framework
 
-<img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> 
+<img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="next" src="https://img.shields.io/badge/next-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white" />
 
 ### Back-end Framework
 
