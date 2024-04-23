@@ -1,9 +1,5 @@
 ### Hi 👋
 
-대화를 즐기는 개발자입니다 😎 \
-오늘보다 더 나은 내일을 기대합니다 ☀️ \
-개발에 대한 고민과 공부한 것을 [Blog](https://velog.io/@sinf)에 정리합니다.
-
 ## 💻 Skills
 
 ### Front-end Framework
